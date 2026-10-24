@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-24",
+  "nota": "precio = media de las tiendas encontradas (Amazon.es, PcComponentes, MediaMarkt, web oficial y guías de compra). 'estimado' = solo una fuente o precio orientativo. Notas 0-100.",
+  "moviles": [
+    {
+      "id": "xiaomi-redmi-15c", "marca": "Xiaomi", "modelo": "Redmi 15C", "sistema": "android", "lanzamiento": "2025-08",
+      "versiones": [{"gb": 128, "precio": 119}, {"gb": 256, "precio": 139}], "estimado": true,
+      "chip": "Helio G81-Ultra", "ramGB": 4, "microSD": true, "bateriaMah": 6000, "cargaW": 33,
+      "pantalla": "LCD 6,9\" 120 Hz", "camara": "50 MP", "ip": "IP64", "anosActualizaciones": 4,
+      "notas": {"potencia": 22, "camara": 30, "pantalla": 40, "bateria": 85},
+      "destacados": ["Batería enorme para su precio", "Admite microSD"]
+    },
+    {
+      "id": "samsung-galaxy-a17-5g", "marca": "Samsung", "modelo": "Galaxy A17 5G", "sistema": "android", "lanzamiento": "2025-08",
+      "versiones": [{"gb": 128, "precio": 189}], "estimado": true,
+      "chip": "Exynos 1330", "ramGB": 4, "microSD": true, "bateriaMah": 5000, "cargaW": 25,
+      "pantalla": "Super AMOLED 6,7\" 90 Hz", "camara": "50 MP con estabilizador (OIS)", "ip": "IP54", "anosActualizaciones": 6,
+      "notas": {"potencia": 35, "camara": 42, "pantalla": 58, "bateria": 68},
+      "destacados": ["6 años de actualizaciones, raro en esta gama", "Admite microSD"]
+    },
+    {
+      "id": "motorola-moto-g56", "marca": "Motorola", "modelo": "Moto G56 5G", "sistema": "android", "lanzamiento": "2025-06",
+      "versiones": [{"gb": 256, "precio": 199}], "estimado": true,
+      "chip": "Dimensity 7060", "ramGB": 8, "microSD": true, "bateriaMah": 5200, "cargaW": 30,
+      "pantalla": "LCD 6,72\" 120 Hz", "camara": "50 MP Sony LYT-600", "ip": "IP68/IP69", "anosActualizaciones": 3,
+      "notas": {"potencia": 40, "camara": 40, "pantalla": 45, "bateria": 72},
+      "destacados": ["Muy resistente (IP68/IP69)", "256 GB de serie"]
+    },
+    {
+      "id": "xiaomi-redmi-note-15", "marca": "Xiaomi", "modelo": "Redmi Note 15", "sistema": "android", "lanzamiento": "2026-01",
+      "versiones": [{"gb": 128, "precio": 186}, {"gb": 256, "precio": 219}],
+      "precios": [{"tienda": "Xiaomi", "precio": 179}, {"tienda": "AliExpress", "precio": 179.9}, {"tienda": "PcComponentes", "precio": 199}],
+      "chip": "Helio G100-Ultra", "ramGB": 6, "microSD": false, "bateriaMah": 6000, "cargaW": 33,
+      "pantalla": "AMOLED 6,77\" 120 Hz", "camara": "108 MP", "ip": "IP64", "anosActualizaciones": 4,
+      "notas": {"potencia": 32, "camara": 48, "pantalla": 70, "bateria": 85},
+      "destacados": ["Pantalla AMOLED por menos de 200 €", "Batería de 6.000 mAh"]
+    },
+    {
+      "id": "samsung-galaxy-a26", "marca": "Samsung", "modelo": "Galaxy A26 5G", "sistema": "android", "lanzamiento": "2025-03",
+      "versiones": [{"gb": 128, "precio": 229}, {"gb": 256, "precio": 269}], "estimado": true,
+      "chip": "Exynos 1380", "ramGB": 6, "microSD": true, "bateriaMah": 5000, "cargaW": 25,
+      "pantalla": "Super AMOLED 6,7\" 120 Hz", "camara": "50 MP con OIS", "ip": "IP67", "anosActualizaciones": 6,
+      "notas": {"potencia": 45, "camara": 48, "pantalla": 66, "bateria": 70},
+      "destacados": ["6 años de actualizaciones", "Resistente al agua IP67"]
+    },
+    {
+      "id": "realme-14-5g", "marca": "realme", "modelo": "14 5G", "sistema": "android", "lanzamiento": "2025-04",
+      "versiones": [{"gb": 256, "precio": 249}], "estimado": true,
+      "chip": "Snapdragon 6 Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 6000, "cargaW": 45,
+      "pantalla": "AMOLED 6,67\" 120 Hz", "camara": "50 MP", "ip": "IP69", "anosActualizaciones": 3,
+      "notas": {"potencia": 50, "camara": 45, "pantalla": 68, "bateria": 86},
+      "destacados": ["Batería de 6.000 mAh con ánodo de silicio", "Buen procesador para su precio"]
+    },
+    {
+      "id": "motorola-moto-g86", "marca": "Motorola", "modelo": "Moto G86 5G", "sistema": "android", "lanzamiento": "2025-06",
+      "versiones": [{"gb": 256, "precio": 249}], "estimado": true,
+      "chip": "Dimensity 7300", "ramGB": 8, "microSD": true, "bateriaMah": 5200, "cargaW": 30,
+      "pantalla": "pOLED 6,67\" 1.5K 120 Hz", "camara": "50 MP Sony LYT-600 con OIS", "ip": "IP68/IP69", "anosActualizaciones": 3,
+      "notas": {"potencia": 48, "camara": 50, "pantalla": 75, "bateria": 75},
+      "destacados": ["Pantalla pOLED de gran calidad", "Cámara con estabilizador"]
+    },
+    {
+      "id": "poco-m8-pro", "marca": "POCO", "modelo": "M8 Pro 5G", "sistema": "android", "lanzamiento": "2026-01",
+      "versiones": [{"gb": 256, "precio": 286}],
+      "precios": [{"tienda": "PcComponentes", "precio": 279}, {"tienda": "Xiaomi", "precio": 279.99}, {"tienda": "Amazon.es", "precio": 299.99}],
+      "chip": "Snapdragon 7s Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 5110, "cargaW": 45,
+      "pantalla": "AMOLED 6,83\" 1.5K 120 Hz", "camara": "50 MP Sony", "ip": "IP64", "anosActualizaciones": 4,
+      "notas": {"potencia": 55, "camara": 50, "pantalla": 80, "bateria": 70},
+      "destacados": ["Pantalla grande 1.5K", "256 GB de serie"]
+    },
+    {
+      "id": "poco-x7", "marca": "POCO", "modelo": "X7", "sistema": "android", "lanzamiento": "2025-01",
+      "versiones": [{"gb": 256, "precio": 299}],
+      "precios": [{"tienda": "Tumovilideal (ago 2026)", "precio": 299}],
+      "chip": "Dimensity 7300 Ultra", "ramGB": 8, "microSD": false, "bateriaMah": 5110, "cargaW": 45,
+      "pantalla": "AMOLED 6,67\" 1.5K 120 Hz", "camara": "50 MP con OIS", "ip": "IP68", "anosActualizaciones": 4,
+      "notas": {"potencia": 50, "camara": 50, "pantalla": 80, "bateria": 70},
+      "destacados": ["IP68 a precio contenido", "Pantalla AMOLED 1.5K"]
+    },
+    {
+      "id": "realme-gt-7t", "marca": "realme", "modelo": "GT 7T", "sistema": "android", "lanzamiento": "2025-05",
+      "versiones": [{"gb": 256, "precio": 336}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 336}],
+      "chip": "Dimensity 8400 Max", "ramGB": 12, "microSD": false, "bateriaMah": 7000, "cargaW": 120,
+      "pantalla": "AMOLED 6,8\" 1.5K 120 Hz", "camara": "50 MP Sony", "ip": "IP69", "anosActualizaciones": 3,
+      "notas": {"potencia": 76, "camara": 55, "pantalla": 80, "bateria": 97},
+      "destacados": ["7.000 mAh y carga de 120 W", "Muy potente para jugar por su precio"]
+    },
+    {
+      "id": "nothing-phone-4b", "marca": "Nothing", "modelo": "Phone (4b)", "sistema": "android", "lanzamiento": "2026-07",
+      "versiones": [{"gb": 128, "precio": 329}],
+      "precios": [{"tienda": "Nothing", "precio": 329}],
+      "chip": "Snapdragon 6 Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 5200, "cargaW": 33,
+      "pantalla": "AMOLED 6,67\" 120 Hz", "camara": "50 MP con OIS", "ip": "IP64", "anosActualizaciones": 5,
+      "notas": {"potencia": 50, "camara": 52, "pantalla": 75, "bateria": 72},
+      "destacados": ["Software muy limpio, sin apps basura", "Diseño original"]
+    },
+    {
+      "id": "redmi-note-15-pro-plus", "marca": "Xiaomi", "modelo": "Redmi Note 15 Pro+ 5G", "sistema": "android", "lanzamiento": "2026-01",
+      "versiones": [{"gb": 256, "precio": 320}, {"gb": 512, "precio": 380}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 320}],
+      "chip": "Snapdragon 7s Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 6500, "cargaW": 100,
+      "pantalla": "AMOLED 6,83\" 1.5K 120 Hz, 3.200 nits", "camara": "200 MP con OIS", "ip": "IP68", "anosActualizaciones": 4,
+      "notas": {"potencia": 56, "camara": 70, "pantalla": 85, "bateria": 90},
+      "destacados": ["Cámara de 200 MP", "6.500 mAh con carga de 100 W"]
+    },
+    {
+      "id": "vivo-v60-lite", "marca": "vivo", "modelo": "V60 Lite 5G", "sistema": "android", "lanzamiento": "2025-09",
+      "versiones": [{"gb": 256, "precio": 349}],
+      "precios": [{"tienda": "Xataka Móvil", "precio": 349}],
+      "chip": "Dimensity 7360-Turbo", "ramGB": 8, "microSD": false, "bateriaMah": 6500, "cargaW": 90,
+      "pantalla": "AMOLED 6,77\" 120 Hz", "camara": "50 MP", "ip": "IP65", "anosActualizaciones": 4,
+      "notas": {"potencia": 50, "camara": 52, "pantalla": 68, "bateria": 95},
+      "destacados": ["Hasta tres días de batería", "Ligero y cómodo"]
+    },
+    {
+      "id": "poco-x8-pro", "marca": "POCO", "modelo": "X8 Pro", "sistema": "android", "lanzamiento": "2026-03",
+      "versiones": [{"gb": 256, "precio": 353}, {"gb": 512, "precio": 409}],
+      "precios": [{"tienda": "Amazon.es", "precio": 369.99}, {"tienda": "MediaMarkt", "precio": 369}, {"tienda": "Xiaomi", "precio": 366.99}, {"tienda": "Xataka Móvil", "precio": 362}, {"tienda": "Comprasmartphone", "precio": 342}, {"tienda": "Tumovilideal", "precio": 309}],
+      "chip": "Dimensity 8500 Ultra", "ramGB": 8, "microSD": false, "bateriaMah": 6500, "cargaW": 100,
+      "pantalla": "AMOLED 6,59\" 1.5K 120 Hz, 3.500 nits", "camara": "50 MP Sony IMX882 con OIS + 8 MP gran angular", "ip": "IP68", "anosActualizaciones": 6,
+      "notas": {"potencia": 80, "camara": 58, "pantalla": 85, "bateria": 93},
+      "destacados": ["Referencia calidad-precio en potencia", "6.500 mAh y carga de 100 W"]
+    },
+    {
+      "id": "samsung-galaxy-a57", "marca": "Samsung", "modelo": "Galaxy A57 5G", "sistema": "android", "lanzamiento": "2026-03",
+      "versiones": [{"gb": 256, "precio": 399}, {"gb": 512, "precio": 459}], "estimado": true,
+      "precios": [{"tienda": "Comprasmartphone", "precio": 349}],
+      "chip": "Exynos 1680", "ramGB": 8, "microSD": false, "bateriaMah": 5000, "cargaW": 45,
+      "pantalla": "Super AMOLED Plus 6,7\" 120 Hz", "camara": "50 MP con OIS", "ip": "IP67", "anosActualizaciones": 6,
+      "notas": {"potencia": 60, "camara": 62, "pantalla": 80, "bateria": 72},
+      "destacados": ["Actualizaciones de seguridad hasta 2032", "Marca con buen servicio técnico en España"]
+    },
+    {
+      "id": "poco-x7-pro", "marca": "POCO", "modelo": "X7 Pro", "sistema": "android", "lanzamiento": "2025-01",
+      "versiones": [{"gb": 256, "precio": 369}],
+      "precios": [{"tienda": "Tumovilideal (ago 2026)", "precio": 369}],
+      "chip": "Dimensity 8400 Ultra", "ramGB": 8, "microSD": false, "bateriaMah": 6000, "cargaW": 90,
+      "pantalla": "AMOLED 6,67\" 1.5K 120 Hz", "camara": "50 MP Sony LYT-600 con OIS", "ip": "IP68", "anosActualizaciones": 4,
+      "notas": {"potencia": 76, "camara": 55, "pantalla": 82, "bateria": 86},
+      "destacados": ["Muy potente para jugar", "6.000 mAh"]
+    },
+    {
+      "id": "nothing-phone-4a", "marca": "Nothing", "modelo": "Phone (4a)", "sistema": "android", "lanzamiento": "2026-03",
+      "versiones": [{"gb": 128, "precio": 379}, {"gb": 256, "precio": 429}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 379}],
+      "chip": "Snapdragon 7s Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 5080, "cargaW": 50,
+      "pantalla": "AMOLED 6,78\" 120 Hz, 4.500 nits", "camara": "50 MP + teleobjetivo periscópico 50 MP 3,5x", "ip": "IP64", "anosActualizaciones": 6,
+      "notas": {"potencia": 56, "camara": 70, "pantalla": 85, "bateria": 70},
+      "destacados": ["Teleobjetivo periscópico en gama media", "Software limpio"]
+    },
+    {
+      "id": "google-pixel-10a", "marca": "Google", "modelo": "Pixel 10a", "sistema": "android", "lanzamiento": "2026-03",
+      "versiones": [{"gb": 128, "precio": 424}, {"gb": 256, "precio": 524}],
+      "precios": [{"tienda": "Amazon.es", "precio": 449}, {"tienda": "Ofertas (Muy Computer)", "precio": 428}, {"tienda": "Comprasmartphone", "precio": 419}, {"tienda": "Xataka Móvil", "precio": 399}],
+      "chip": "Google Tensor G4", "ramGB": 8, "microSD": false, "bateriaMah": 5100, "cargaW": 23,
+      "pantalla": "pOLED 6,3\" 120 Hz, 3.000 nits", "camara": "48 MP con OIS + 13 MP gran angular", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 60, "camara": 82, "pantalla": 78, "bateria": 75},
+      "destacados": ["La mejor cámara de la gama media", "7 años de actualizaciones", "Compacto"]
+    },
+    {
+      "id": "poco-f7", "marca": "POCO", "modelo": "F7", "sistema": "android", "lanzamiento": "2025-06",
+      "versiones": [{"gb": 256, "precio": 450}],
+      "precios": [{"tienda": "Xataka Móvil", "precio": 449.9}],
+      "chip": "Snapdragon 8s Gen 4", "ramGB": 12, "microSD": false, "bateriaMah": 7550, "cargaW": 90,
+      "pantalla": "AMOLED 6,83\" 1.5K 120 Hz", "camara": "50 MP Sony LYT-600 con OIS", "ip": "IP68", "anosActualizaciones": 4,
+      "notas": {"potencia": 84, "camara": 55, "pantalla": 82, "bateria": 96},
+      "destacados": ["Batería gigante de 7.550 mAh", "Procesador de gama alta"]
+    },
+    {
+      "id": "xiaomi-17t", "marca": "Xiaomi", "modelo": "17T", "sistema": "android", "lanzamiento": "2026-09",
+      "versiones": [{"gb": 256, "precio": 469}, {"gb": 512, "precio": 529}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 469}],
+      "chip": "Dimensity 8500 Ultra", "ramGB": 12, "microSD": false, "bateriaMah": 6500, "cargaW": 67,
+      "pantalla": "AMOLED 6,59\" 1.5K 120 Hz, 3.500 nits", "camara": "50 MP Leica con OIS + periscopio 50 MP + 12 MP gran angular", "ip": "IP68", "anosActualizaciones": 6,
+      "notas": {"potencia": 80, "camara": 80, "pantalla": 84, "bateria": 90},
+      "destacados": ["Cámaras Leica con teleobjetivo", "Muy equilibrado"]
+    },
+    {
+      "id": "honor-600", "marca": "Honor", "modelo": "600", "sistema": "android", "lanzamiento": "2026-05",
+      "versiones": [{"gb": 256, "precio": 479}, {"gb": 512, "precio": 539}],
+      "precios": [{"tienda": "Xataka Móvil", "precio": 519}, {"tienda": "Comprasmartphone", "precio": 439}],
+      "chip": "Snapdragon 7 Gen 4", "ramGB": 8, "microSD": false, "bateriaMah": 6400, "cargaW": 80,
+      "pantalla": "AMOLED 6,57\" 120 Hz", "camara": "200 MP con OIS", "ip": "IP68/IP69K", "anosActualizaciones": 5,
+      "notas": {"potencia": 62, "camara": 72, "pantalla": 78, "bateria": 90},
+      "destacados": ["Ultradelgado y ligero", "Muy buena autonomía"]
+    },
+    {
+      "id": "google-pixel-10", "marca": "Google", "modelo": "Pixel 10", "sistema": "android", "lanzamiento": "2025-08",
+      "versiones": [{"gb": 128, "precio": 549}, {"gb": 256, "precio": 649}],
+      "precios": [{"tienda": "Xataka Móvil (oferta)", "precio": 549}],
+      "chip": "Google Tensor G5", "ramGB": 12, "microSD": false, "bateriaMah": 4970, "cargaW": 29,
+      "pantalla": "OLED 6,3\" 120 Hz", "camara": "48 MP + 13 MP gran angular + teleobjetivo 5x", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 70, "camara": 85, "pantalla": 82, "bateria": 70},
+      "destacados": ["Teleobjetivo 5x", "7 años de actualizaciones"]
+    },
+    {
+      "id": "oneplus-15r", "marca": "OnePlus", "modelo": "15R", "sistema": "android", "lanzamiento": "2025-12",
+      "versiones": [{"gb": 256, "precio": 560}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 560}],
+      "chip": "Snapdragon 8 Gen 5", "ramGB": 12, "microSD": false, "bateriaMah": 7400, "cargaW": 80,
+      "pantalla": "AMOLED 6,83\" 165 Hz", "camara": "50 MP Sony IMX906 con OIS + gran angular", "ip": "IP68/IP69", "anosActualizaciones": 6,
+      "notas": {"potencia": 92, "camara": 62, "pantalla": 86, "bateria": 97},
+      "destacados": ["Pantalla de 165 Hz ideal para juegos", "7.400 mAh"]
+    },
+    {
+      "id": "poco-f8-pro", "marca": "POCO", "modelo": "F8 Pro", "sistema": "android", "lanzamiento": "2025-11",
+      "versiones": [{"gb": 256, "precio": 591}],
+      "precios": [{"tienda": "Amazon.es", "precio": 513.76}, {"tienda": "Xataka Móvil", "precio": 609.01}, {"tienda": "Xiaomi", "precio": 649.99}],
+      "chip": "Snapdragon 8 Elite", "ramGB": 12, "microSD": false, "bateriaMah": 5300, "cargaW": 120,
+      "pantalla": "AMOLED 2K 120 Hz", "camara": "50 MP + teleobjetivo 2,5x", "ip": "IP68", "anosActualizaciones": 5,
+      "notas": {"potencia": 92, "camara": 70, "pantalla": 90, "bateria": 78},
+      "destacados": ["Procesador tope de gama", "Pantalla 2K"]
+    },
+    {
+      "id": "iphone-17e", "marca": "Apple", "modelo": "iPhone 17e", "sistema": "ios", "lanzamiento": "2026-02",
+      "versiones": [{"gb": 256, "precio": 679}, {"gb": 512, "precio": 929}],
+      "precios": [{"tienda": "Comprasmartphone", "precio": 679}],
+      "chip": "Apple A19", "ramGB": 8, "microSD": false, "bateriaMah": 4000, "cargaW": 20,
+      "pantalla": "OLED 6,1\" 60 Hz", "camara": "48 MP", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 88, "camara": 74, "pantalla": 66, "bateria": 72},
+      "destacados": ["El iPhone más barato", "Muchos años de actualizaciones"]
+    },
+    {
+      "id": "samsung-galaxy-s26-fe", "marca": "Samsung", "modelo": "Galaxy S26 FE", "sistema": "android", "lanzamiento": "2026-09",
+      "versiones": [{"gb": 128, "precio": 701}, {"gb": 256, "precio": 761}],
+      "precios": [{"tienda": "Samsung", "precio": 799}, {"tienda": "Amazon.es", "precio": 749}, {"tienda": "PcComponentes", "precio": 556}],
+      "chip": "Exynos 2500", "ramGB": 8, "microSD": false, "bateriaMah": 4900, "cargaW": 45,
+      "pantalla": "Dynamic AMOLED 6,7\" 120 Hz, 1.900 nits", "camara": "50 MP + teleobjetivo 3x + gran angular", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 82, "camara": 78, "pantalla": 85, "bateria": 74},
+      "destacados": ["7 años de actualizaciones", "Galaxy AI"]
+    },
+    {
+      "id": "poco-f8-ultra", "marca": "POCO", "modelo": "F8 Ultra", "sistema": "android", "lanzamiento": "2025-11",
+      "versiones": [{"gb": 256, "precio": 729}, {"gb": 512, "precio": 799}],
+      "precios": [{"tienda": "Tumovilideal", "precio": 829.99}, {"tienda": "Comprasmartphone", "precio": 629}],
+      "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "microSD": false, "bateriaMah": 6500, "cargaW": 100,
+      "pantalla": "AMOLED 6,9\" 120 Hz, 3.500 nits", "camara": "50 MP + periscopio 50 MP + 50 MP gran angular", "ip": "IP68", "anosActualizaciones": 5,
+      "notas": {"potencia": 98, "camara": 84, "pantalla": 90, "bateria": 92},
+      "destacados": ["Potencia máxima a precio contenido", "Carga inalámbrica de 50 W"]
+    },
+    {
+      "id": "honor-magic-8-pro", "marca": "Honor", "modelo": "Magic 8 Pro", "sistema": "android", "lanzamiento": "2025-10",
+      "versiones": [{"gb": 512, "precio": 999}],
+      "precios": [{"tienda": "Comparatech", "precio": 999}],
+      "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "microSD": false, "bateriaMah": 7000, "cargaW": 100,
+      "pantalla": "OLED 6,71\" 120 Hz", "camara": "50 MP + periscopio 200 MP", "ip": "IP68/IP69", "anosActualizaciones": 6,
+      "notas": {"potencia": 97, "camara": 88, "pantalla": 90, "bateria": 95},
+      "destacados": ["Batería excelente para un gama alta", "Construcción premium"]
+    },
+    {
+      "id": "xiaomi-15t-pro", "marca": "Xiaomi", "modelo": "15T Pro", "sistema": "android", "lanzamiento": "2025-09",
+      "versiones": [{"gb": 256, "precio": 999}],
+      "precios": [{"tienda": "Tumovilideal", "precio": 999}], "estimado": true,
+      "chip": "Dimensity 9400+", "ramGB": 12, "microSD": false, "bateriaMah": 5500, "cargaW": 90,
+      "pantalla": "AMOLED 6,83\" 144 Hz", "camara": "50 MP Leica + periscopio 5x", "ip": "IP68", "anosActualizaciones": 6,
+      "notas": {"potencia": 92, "camara": 86, "pantalla": 88, "bateria": 85},
+      "destacados": ["Pantalla de 144 Hz", "Cámaras Leica"]
+    },
+    {
+      "id": "samsung-galaxy-s26", "marca": "Samsung", "modelo": "Galaxy S26", "sistema": "android", "lanzamiento": "2026-02",
+      "versiones": [{"gb": 256, "precio": 1100}, {"gb": 512, "precio": 1300}],
+      "precios": [{"tienda": "Samsung (oct 2026)", "precio": 1100}],
+      "chip": "Exynos 2600", "ramGB": 12, "microSD": false, "bateriaMah": 4300, "cargaW": 25,
+      "pantalla": "Dynamic AMOLED 6,3\" 120 Hz", "camara": "50 MP + 12 MP gran angular + teleobjetivo 3x", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 92, "camara": 82, "pantalla": 88, "bateria": 66},
+      "destacados": ["Compacto y de gama alta", "7 años de actualizaciones"]
+    },
+    {
+      "id": "google-pixel-10-pro", "marca": "Google", "modelo": "Pixel 10 Pro", "sistema": "android", "lanzamiento": "2025-08",
+      "versiones": [{"gb": 128, "precio": 1199}, {"gb": 256, "precio": 1299}],
+      "precios": [{"tienda": "Tumovilideal", "precio": 1199}, {"tienda": "Búsqueda Google", "precio": 1199}],
+      "chip": "Google Tensor G5", "ramGB": 16, "microSD": false, "bateriaMah": 4870, "cargaW": 30,
+      "pantalla": "LTPO OLED 6,3\" 120 Hz", "camara": "50 MP + 48 MP gran angular + 48 MP teleobjetivo 5x", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 72, "camara": 95, "pantalla": 92, "bateria": 72},
+      "destacados": ["Una de las mejores cámaras", "IA de Google"]
+    },
+    {
+      "id": "xiaomi-17-ultra", "marca": "Xiaomi", "modelo": "17 Ultra", "sistema": "android", "lanzamiento": "2026-03",
+      "versiones": [{"gb": 512, "precio": 1299}],
+      "precios": [{"tienda": "Comparatech", "precio": 1299}, {"tienda": "Búsqueda Google", "precio": 1299}],
+      "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 16, "microSD": false, "bateriaMah": 6000, "cargaW": 90,
+      "pantalla": "AMOLED 6,73\" 120 Hz", "camara": "Sensor de 1\" Leica + periscopio 200 MP", "ip": "IP68", "anosActualizaciones": 6,
+      "notas": {"potencia": 97, "camara": 98, "pantalla": 92, "bateria": 86},
+      "destacados": ["La mejor cámara del catálogo", "512 GB de serie"]
+    },
+    {
+      "id": "iphone-17-pro", "marca": "Apple", "modelo": "iPhone 17 Pro", "sistema": "ios", "lanzamiento": "2025-09",
+      "versiones": [{"gb": 256, "precio": 1319}, {"gb": 512, "precio": 1569}],
+      "precios": [{"tienda": "Tumovilideal", "precio": 1319}, {"tienda": "Búsqueda Google", "precio": 1319}],
+      "chip": "Apple A19 Pro", "ramGB": 12, "microSD": false, "bateriaMah": 4250, "cargaW": 40,
+      "pantalla": "OLED 6,3\" 120 Hz", "camara": "Triple 48 MP con teleobjetivo 4x", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 97, "camara": 93, "pantalla": 92, "bateria": 80},
+      "destacados": ["El mejor para grabar vídeo", "Muchos años de actualizaciones"]
+    },
+    {
+      "id": "iphone-17-pro-max", "marca": "Apple", "modelo": "iPhone 17 Pro Max", "sistema": "ios", "lanzamiento": "2025-09",
+      "versiones": [{"gb": 256, "precio": 1479}, {"gb": 512, "precio": 1729}],
+      "precios": [{"tienda": "Comparatech", "precio": 1479}],
+      "chip": "Apple A19 Pro", "ramGB": 12, "microSD": false, "bateriaMah": 5000, "cargaW": 40,
+      "pantalla": "OLED 6,9\" 120 Hz", "camara": "Triple 48 MP con teleobjetivo 4x", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 97, "camara": 94, "pantalla": 94, "bateria": 92},
+      "destacados": ["Pantalla grande y gran batería", "El mejor para vídeo"]
+    },
+    {
+      "id": "samsung-galaxy-s26-ultra", "marca": "Samsung", "modelo": "Galaxy S26 Ultra", "sistema": "android", "lanzamiento": "2026-02",
+      "versiones": [{"gb": 256, "precio": 1500}, {"gb": 512, "precio": 1700}],
+      "precios": [{"tienda": "Tumovilideal (ago 2026)", "precio": 1449}, {"tienda": "Samsung (oct 2026)", "precio": 1550}],
+      "chip": "Snapdragon 8 Elite Gen 5 for Galaxy", "ramGB": 12, "microSD": false, "bateriaMah": 5000, "cargaW": 60,
+      "pantalla": "Dynamic AMOLED 6,9\" 120 Hz", "camara": "200 MP + teleobjetivos 3x y 5x + gran angular 50 MP", "ip": "IP68", "anosActualizaciones": 7,
+      "notas": {"potencia": 98, "camara": 94, "pantalla": 96, "bateria": 85},
+      "destacados": ["El más completo", "S Pen incluido", "7 años de actualizaciones"]
+    }
+  ]
+}
